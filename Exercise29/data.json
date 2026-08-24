@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Abdirahman",
+      "profession": "Software Engineer",
+      "city": "Nairobi",
+      "skills": ["JavaScript", "React", "Node.js"],
+      "isActive": true
+    },
+    {
+      "id": 2,
+      "name": "Aasiya",
+      "profession": "Designer",
+      "city": "Nairobi",
+      "skills": ["UI/UX", "Figma", "CSS"],
+      "isActive": true
+    }
+  ]
+}
